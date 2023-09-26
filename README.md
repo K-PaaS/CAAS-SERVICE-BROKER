@@ -1,5 +1,5 @@
-﻿# PAAS-TA-CAAS-SERVICE-BROKER
-PaaS-TA 에서 제공하는 Container 서비스 브로커로 클라우드 컨트롤러와 서비스 브로커간의 v2 서비스 API 를 제공합니다.
+﻿# CAAS-SERVICE-BROKER
+K-PaaS 에서 제공하는 Container 서비스 브로커로 클라우드 컨트롤러와 서비스 브로커간의 v2 서비스 API 를 제공합니다.
 
 Container 서비스 브로커가 수행하는 Container 서비스 관리 작업은 다음과 같습니다.
 - Catalog : Container 서비스 카탈로그 조회

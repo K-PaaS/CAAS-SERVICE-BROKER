@@ -72,6 +72,6 @@ dashboard:
   url: "http://CAAS-DASHBOARD-URL/caas/clusters/overview/"
 
 auth:
-  id: PAAS-TA-AUTH-ID
-  password: PAAS-TA-AUTH-PASSWORD
+  id: K-PAAS-AUTH-ID
+  password: K-PAAS-AUTH-PASSWORD
 

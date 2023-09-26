@@ -14,7 +14,7 @@ import org.openpaas.servicebroker.caas.service.PropertyService;
 import org.openpaas.servicebroker.caas.service.RestTemplateService;
 import org.openpaas.servicebroker.caas.service.impl.UserService;
 import org.openpaas.servicebroker.model.Plan;
-import org.paasta.servicebroker.apiplatform.common.TestConstants;
+import org.servicebroker.apiplatform.common.TestConstants;
 import org.springframework.http.HttpMethod;
 
 @RunWith(MockitoJUnitRunner.class)

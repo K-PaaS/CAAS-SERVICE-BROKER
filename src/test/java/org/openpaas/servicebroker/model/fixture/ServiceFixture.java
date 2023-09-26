@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 import org.openpaas.servicebroker.model.ServiceDefinition;
-import org.paasta.servicebroker.apiplatform.common.TestConstants;
+import org.servicebroker.apiplatform.common.TestConstants;
 
 
 public class ServiceFixture {
